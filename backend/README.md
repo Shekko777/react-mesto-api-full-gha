@@ -1,5 +1,5 @@
 [![Tests](../../actions/workflows/tests-13-sprint.yml/badge.svg)](../../actions/workflows/tests-13-sprint.yml) [![Tests](../../actions/workflows/tests-14-sprint.yml/badge.svg)](../../actions/workflows/tests-14-sprint.yml)
-# Проект Mesto фронтенд + бэкенд
+# Проект Mesto фронтенд + бэкенд от Shekko
 
 <a style="color: #4285B4;" href="https://github.com/Shekko777/express-mesto-gha" target="_blank">Ссылка на репозиторий</a>
 
