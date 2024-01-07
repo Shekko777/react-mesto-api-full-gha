@@ -5,12 +5,12 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/...
+Адрес репозитория: https://github.com/Shekko777/react-mesto-api-full-gha
 
 ## Ссылки на проект
 
-IP-адрес 51.250.28.158
+IP-адрес <a href="https://51.250.28.158">51.250.28.158</a>
 
-Frontend https://mesto.shekko.nomoredomainsmonster.ru
+Frontend <a href="https://mesto.shekko.nomoredomainsmonster.ru">https://mesto.shekko.nomoredomainsmonster.ru</a>
 
-Backend https://api.mesto.shekko.nomoredomainsmonster.ru
+Backend <a href="https://api.mesto.shekko.nomoredomainsmonster.ru">https://api.mesto.shekko.nomoredomainsmonster.ru</a>
