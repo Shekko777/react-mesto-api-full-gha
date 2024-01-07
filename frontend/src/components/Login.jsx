@@ -28,7 +28,11 @@ const Login = ({ onLogin }) => {
 
   // Проверка валидности при заполнении полей
   React.useEffect(() => {
-    setDisabled(email.length !== 0 && password.length !== 0 && !re.test(String(email).toLowerCase()));
+    if(email.length !== 0 && password.length !== 0 && re.test(String(email).toLowerCase())) { 
+      setDisabled(false); 
+    } else { 
+      setDisabled(true); 
+    } 
   }, [email, password])
 
   return (

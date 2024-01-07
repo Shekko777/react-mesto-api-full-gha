@@ -9,8 +9,8 @@
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+IP-адрес 51.250.28.158
 
-Frontend https://...
+Frontend https://mesto.shekko.nomoredomainsmonster.ru
 
-Backend https://...
+Backend https://api.mesto.shekko.nomoredomainsmonster.ru
