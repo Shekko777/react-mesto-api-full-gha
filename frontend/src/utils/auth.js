@@ -43,8 +43,8 @@ class Auth {
   }
 }
 
-// const url = "https://auth.nomoreparties.co";
-const url = "http://127.0.0.1:3000";
+// const url = "https://auth.nomoreparties.co"; тоже на память :)
+const url = "http://api.mesto.shekko.nomoredomainsmonster.ru";
 
 const auth = new Auth(url);
 

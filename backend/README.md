@@ -15,3 +15,9 @@
 
 `npm run start` — запускает сервер   
 `npm run dev` — запускает сервер с hot-reload
+
+## Ссылки
+
+IP  51.250.28.158
+Frontend  https://mesto.shekko.nomoredomainsmonster.ru
+Backend  https://api.mesto.shekko.nomoredomainsmonster.ru
