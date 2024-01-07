@@ -100,8 +100,8 @@ class Api {
 }
 
 const apiConfig = {
-  // url: "https://mesto.nomoreparties.co/v1/cohort-75", старый api на память
-  url: "http://api.mesto.shekko.nomoredomainsmonster.ru",
+  // url: "https://mesto.nomoreparties.co/v1/cohort-75", старый api на память :)
+  url: "https://api.mesto.shekko.nomoredomainsmonster.ru",
 };
 
 const api = new Api(apiConfig);
