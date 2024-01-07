@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-Публичный IP - 158.160.6.7
+IP <158.160.6.7> 
 
 Frontend <a href="https://mesto.shekko.nomoredomainsmonster.ru">https://mesto.shekko.nomoredomainsmonster.ru</a>
 
