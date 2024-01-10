@@ -53,7 +53,7 @@ function Main({onEditAvatar, onEditProfile, onAddPlace, onCardClick, onCardLike,
       {/*Elements */}
       <section className="elements" aria-label="Фотокарточки">
         <ul className="elements__list">
-          {cards.reverse().map(card => {
+          {cards.map(card => {
             return (
               <li className="elements__item" key={card._id}>
                 <Card onConfirmDelete={onConfirmDelete} handleLikeClick={onCardLike} onCardClick={onCardClick} card={card} />

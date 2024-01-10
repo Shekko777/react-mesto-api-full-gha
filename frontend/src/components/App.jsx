@@ -236,7 +236,7 @@ function App() {
           id: dataUser.user._id,
           avatar: dataUser.user.avatar, 
         });
-        setCards(dataCards);
+        setCards(dataCards.reverse());
       }).catch(err => console.log(`Oops: Не удалось получить данные, ошибка: ${err}`));
     }
   }, [loggedIn]);
